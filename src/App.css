@@ -1,0 +1,13 @@
+body {
+    background-color: #444;
+    color: #fff;
+    font-family: Oswald;
+    font-size: 1.4rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.App {
+    display: flex;
+    flex-wrap: wrap;
+}
