@@ -20,10 +20,15 @@
         "strict": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
-        "noFallthroughCasesInSwitch": true
+        "noFallthroughCasesInSwitch": true,
+        /* == Ajustes == */
+        "baseUrl": "./",
+        "types": [
+            "node"
+        ]
     },
     "include": [
-        "src"
+        "src/**/*"
     ],
     "references": [
         {
